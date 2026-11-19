@@ -1,0 +1,11 @@
+:root {
+  --ink: #1b2a2f;
+  --paper: #f2f4f3;
+  --keycap: #dfe4e4;
+  --green: #1f7a5c;
+  --amber: #f2b632;
+  --white: #ffffff;
+  --font: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --radius: 12px;
+  --max: 1080px;
+}
